@@ -27,3 +27,5 @@ Desktop.ini
 !.env.example
 
 .commands.txt
+
+.coverage
